@@ -4,6 +4,8 @@ Hi, I'm Anuoluwa Onabajo, a passionate Data Analyst with a growing specializatio
 
 My analytics journey focuses on leveraging tools such as Excel, SQL, Power BI, and DAX to clean, analyze, visualize, and communicate data through interactive dashboards and compelling business stories. Alongside analytics, my background as a Solar Engineer has strengthened my analytical thinking, problem-solving, and ability to deliver practical, data-driven solutions across different industries.
 
+---
+
 # 💼 Soft Skills
 - 🤝 Team Collaboration
 - 🧩 Problem Solving
@@ -15,8 +17,10 @@ My analytics journey focuses on leveraging tools such as Excel, SQL, Power BI, a
 - 💡 Decision Support
 - 📈 Stakeholder Engagement
 - 🛠️ Technical Skills
+
 # Category	Skills
 
+|---|---|
 | Data Analysis |	Microsoft Excel, SQL, Power Query, DAX |
 | Business Intelligence	| Power BI, Interactive Dashboards, KPI Reporting |
 | Data Management |	Data Cleaning, Data Validation, Data Modeling |
@@ -26,6 +30,7 @@ My analytics journey focuses on leveraging tools such as Excel, SQL, Power BI, a
 ---
 
 # 📌 Featured Project
+
 ## 📊 Bank of America Consumer Complaint Analysis Dashboard
 
 This project analyzes 62,516 customer complaints submitted between 2017 and 2023 using a synthetic dataset modeled after Bank of America. The objective was to identify complaint patterns, evaluate customer service performance, and provide actionable recommendations to improve customer satisfaction and operational efficiency.
@@ -82,5 +87,6 @@ Lagos, Nigeria 🇳🇬
 
 I'm always open to collaborating on data analytics, business intelligence, financial analytics, and dashboard development projects.
 
-💼 [LinkedIn]()
+💼 [LinkedIn](https://www.linkedin.com/in/anuoluwa-onabajo-87a429395?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 📧 [Email](igwedahboss03@gmail.com)
