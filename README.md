@@ -20,6 +20,7 @@ My analytics journey focuses on leveraging tools such as Excel, SQL, Power BI, a
 
 # Category	Skills
 
+| Skill |   |
 |---|---|
 | Data Analysis |	Microsoft Excel, SQL, Power Query, DAX |
 | Business Intelligence	| Power BI, Interactive Dashboards, KPI Reporting |
